@@ -11,8 +11,6 @@ Requirements
 - Android Studio 2.2.x
 - Gradle 2.2.x
 - Android 7.1.1 SDK
-- Android Support Library, revision 24 or newer
-- Google Play Services, version 9.6.0 or newer
 - An Android device running Android 4.4W or newer
 
 Steps to initialize sdk
