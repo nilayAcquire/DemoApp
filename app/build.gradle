@@ -34,4 +34,5 @@ dependencies {
     compile 'com.android.support:design:26.1.0'
     compile 'com.mikhaellopez:circularimageview:2.1.1'
     compile 'andhradroid.dev:aFilechooser:1.0.1'
+    compile 'com.google.code.gson:gson:2.8.2'
 }
